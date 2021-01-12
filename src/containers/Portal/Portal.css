@@ -1,0 +1,22 @@
+.Portal{
+  width: 1366px;
+  margin: 0px auto;
+  background:lightpink;
+}
+
+.Portal nav {
+  background: lavender;
+}
+
+.Portal ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.Portal li {
+  display: inline-block;
+  margin: 20px;
+}
